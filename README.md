@@ -61,9 +61,7 @@ Tabulation:1
 	
 Cross connection: 
 CIRCUIT DIAGRAM:
-
 <img width="1319" height="753" alt="Screenshot 2025-11-25 203517" src="https://github.com/user-attachments/assets/49cdcccf-3f96-47bf-9d7a-2da2f22cbedb" />
-
 Tabulation:2
 
 | Node | S1  | S2  | Lamp |
