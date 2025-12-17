@@ -46,18 +46,30 @@ switch2.
 Direct connection:
 CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-12-17 at 11 44 38 AM](https://github.com/user-attachments/assets/0eac59b7-c37c-4907-ad01-42a68e242177)
 
 Tabulation:1
 
+|NODE|S1|S2|LAMP|
+ |:-----:|:-----:|:------------:|:-------:|
+ |1|ON|ON|ON|
+ |2|ON|OFF|OFF|
+ |3|OFF|ON|OFF|
+ |4|OFF|OFF|ON|
 
-	
+
 Cross connection: 
 CIRCUIT DIAGRAM:
 
-
-
+![WhatsApp Image 2025-12-17 at 11 44 37 AM](https://github.com/user-attachments/assets/203cabac-2715-4d65-9e96-ce22f5abe0b6)
 
 Tabulation:2
+
+|:-----:|:-----:|:------------:|:-------:|
+ |1|ON|ON|OFF|
+ |2|ON|OFF|ON|
+ |3|OFF|ON|ON|
+ |4|OFF|OFF|OFF|
 
 
 RESULT:
