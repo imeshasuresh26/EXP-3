@@ -46,7 +46,7 @@ switch2.
 Direct connection:
 CIRCUIT DIAGRAM: 
 
-<img width="1404" height="813" alt="Screenshot 2025-11-25 203225" src="https://github.com/user-attachments/assets/fa31553d-8fa7-4406-99ed-332c5a751560" />
+<img width="982" height="524" alt="BEEE EX3-1" src="https://github.com/user-attachments/assets/0ec369b6-cb05-427e-a4a5-3bd9bcebdf4e" />
 
 
 Tabulation:1
@@ -61,7 +61,10 @@ Tabulation:1
 	
 Cross connection: 
 CIRCUIT DIAGRAM:
-<img width="1319" height="753" alt="Screenshot 2025-11-25 203517" src="https://github.com/user-attachments/assets/49cdcccf-3f96-47bf-9d7a-2da2f22cbedb" />
+
+
+<img width="1162" height="559" alt="BEEE EX3-2" src="https://github.com/user-attachments/assets/139106d3-77c1-4950-af37-fc2981584bc6" />
+
 Tabulation:2
 
 | Node | S1  | S2  | Lamp |
