@@ -40,11 +40,31 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+
+<img width="1404" height="813" alt="Screenshot 2025-11-25 203225" src="https://github.com/user-attachments/assets/fa31553d-8fa7-4406-99ed-332c5a751560" />
+
 Tabulation:1
+
+| Node | S1  | S2  | Lamp |
+|------|-----|-----|------|
+| 1    | ON  | ON  | ON   |
+| 2    | ON  | OFF | OFF  |
+| 3    | OFF | ON  | OFF  |
+| 4    | OFF | OFF | ON   |
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+<img width="1319" height="753" alt="Screenshot 2025-11-25 203517" src="https://github.com/user-attachments/assets/49cdcccf-3f96-47bf-9d7a-2da2f22cbedb" />
 Tabulation:2
+
+Tabulation:2
+
+| Node | S1  | S2  | Lamp |
+|------|-----|-----|------|
+| 1    | ON  | ON  | OFF  |
+| 2    | ON  | OFF | ON   |
+| 3    | OFF | ON  | ON   |
+| 4    | OFF | OFF | OFF  |
 
 RESULT:
 Thus the staircase wiring is connected and tested.
