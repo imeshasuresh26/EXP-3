@@ -65,6 +65,7 @@ CIRCUIT DIAGRAM:
 
 Tabulation:2
 
+|NODE|S1|S2|LAMP|
 |:-----:|:-----:|:------------:|:-------:|
  |1|ON|ON|OFF|
  |2|ON|OFF|ON|
