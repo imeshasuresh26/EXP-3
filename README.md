@@ -48,6 +48,13 @@ CIRCUIT DIAGRAM:
 
 ![WhatsApp Image 2025-12-17 at 11 44 38 AM](https://github.com/user-attachments/assets/0eac59b7-c37c-4907-ad01-42a68e242177)
 
+
+| COMPONENTS | PROTEUS | SPECIFICATION |
+| :--- | :--- | :--- |
+| AC supply | Vsine | Amplitude = 230V |
+| Two-way switch | SPDT | Frequency = 50 Hz |
+| Lamp | Animated | 230V |
+
 Tabulation:1
 
 |NODE|S1|S2|LAMP|
